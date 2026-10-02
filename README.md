@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dan
 
-<!--
-**dandigby80/dandigby80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning technology by building practical projects and experimenting with Linux, Python and networking.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- DNIP - Defensive Network Intelligence Platform
+- Notification Cube - A physical networking and Python experiment
+- Python and Linux projects
+
+## Completed
+
+- MAC Address Finder - Python/Linux networking micro-project
+
+## Learning by doing
+
+Learn > Build > Experiment > Break > Fix > Document > Improve
